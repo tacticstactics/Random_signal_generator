@@ -1,2 +1,2 @@
 # Random_signal_generator
-Random_data_generator
+Random_signal_generator
