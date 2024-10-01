@@ -1,5 +1,4 @@
 # Random_signal_generator
 
-In signal analysis, random signals are required.
 
-We have prepared an analog and binary generator
+We have provided an analog and binary generator that can be used in signal processing.
